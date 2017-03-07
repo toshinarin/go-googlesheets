@@ -5,3 +5,9 @@ Provides the utility to read/write google spread sheet. This utility is based on
 ## Documentation
 
 Please refer to https://developers.google.com/sheets/api/quickstart/go .
+
+## Installation
+
+```
+$ go get github.com/toshinarin/go-googlesheets
+```
